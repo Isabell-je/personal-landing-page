@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isabell Edney | Personal Landing Page</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+background-color: #f5f7fa;
+color: #333;
+}
+
+header {
+background-color: #0a66c2;
+color: white;
+padding: 40px 20px;
+text-align: center;
+}
+
+header h1 {
+margin: 0;
+font-size: 32px;
+}
+
+header p {
+margin-top: 10px;
+font-size: 18px;
+}
+
+.container {
+max-width: 900px;
+margin: 30px auto;
+padding: 0 20px;
+}
+
+section {
+background: white;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+h2 {
+color: #0a66c2;
+margin-top: 0;
+}
+
+ul {
+padding-left: 20px;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+font-size: 14px;
+color: #777;
+}
+
+a {
+color: #0a66c2;
+text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Isabell Edney</h1>
+<p>[Your Professional Headline from LinkedIn]</p>
+</header>
+
+<div class="container">
+
+<section>
+<h2>About Me</h2>
+<p>
+[Write a short summary about yourself based on your LinkedIn "About" section.
+Include your interests, goals, and what you are currently focused on.]
+</p>
+</section>
+
+<section>
+<h2>Education</h2>
+<ul>
+<li>[School Name] — [Degree or Program] ([Years])</li>
+<li>[Additional education if listed]</li>
+</ul>
+</section>
+
+<section>
+<h2>Experience</h2>
+<ul>
+<li>
+<strong>[Job Title]</strong> — [Company Name]<br>
+<em>[Dates]</em><br>
+[Brief description of what you did or learned]
+</li>
+<br>
+<li>
+<strong>[Another Role]</strong> — [Company Name]<br>
+<em>[Dates]</em><br>
+[Brief description]
+</li>
+</ul>
+</section>
+
+<section>
+<h2>Skills & Interests</h2>
+<ul>
+<li>[Skill or interest from LinkedIn]</li>
+<li>[Skill or interest]</li>
+<li>[Skill or interest]</li>
+</ul>
+</section>
+
+<section>
+<h2>Activities & Involvement</h2>
+<ul>
+<li>[Clubs, organizations, volunteering, etc.]</li>
+<li>[Leadership roles or campus involvement]</li>
+</ul>
+</section>
+
+<section>
+<h2>Goals</h2>
+<p>
+[Write a short statement about your future goals, career direction, or what you're working toward.]
+</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>
+LinkedIn:
+<a href="https://www.linkedin.com/in/isabell-edney-28693a397" target="_blank">
+View My Profile
+</a>
+</p>
+<p>Email: [your email here]</p>
+</section>
+
+</div>
+
+<footer>
+<p>© 2026 Isabell Edney</p>
+</footer>
+
+</body>
+</html>
